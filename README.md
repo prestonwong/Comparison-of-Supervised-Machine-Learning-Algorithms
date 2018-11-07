@@ -1,1 +1,2 @@
 # Comparison-of-Supervised-Machine-Learning-Algorithms
+With many supervised learning algorithms available, it has always peaked interest in which methods will be the most efficient and accurate. Using the UCI repository and the scikit-learn libraries, the following supervised learning algorithms are studied and compared against three different datasets: decision trees, random forest, and neural networks. These algorithms are tested with performance metrics such as accuracy, to find a comprehensive difference among each dataset and algorithm
